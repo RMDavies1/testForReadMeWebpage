@@ -10,4 +10,4 @@ This is a read me file that is going to be converted into a webpage
 ### header 3
 
 
-![readme-logo](https://github.com/RMDavies1/testForReadMeWebpage/assets/102157633/48c9a21f-9b56-4b7e-a8df-85567b46cdc2)
+![readmelogo](https://github.com/RMDavies1/testForReadMeWebpage/assets/102157633/6fb27df9-a0f7-43f0-81e2-25aef0ca3926)
