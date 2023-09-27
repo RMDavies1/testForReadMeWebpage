@@ -8,4 +8,6 @@ This is a read me file that is going to be converted into a webpage
 **bold**
 *italics*
 ### header 3
-![readme-logo](https://github.com/RMDavies1/testForReadMeWebpage/assets/102157633/a08820a9-9cb7-44d0-b96c-0a0304f6933e)
+
+
+![readme-logo](https://github.com/RMDavies1/testForReadMeWebpage/assets/102157633/48c9a21f-9b56-4b7e-a8df-85567b46cdc2)
