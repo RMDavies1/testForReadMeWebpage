@@ -1,7 +1,5 @@
 # Test Website
 This is a read me file that is going to be converted into a webpage
-##### Webpage link:
-https://rmdavies1.github.io/testForReadMeWebpage/
 ## Test Header
 - [Fun Facts](#fun-facts)
 - [Image](#image)
